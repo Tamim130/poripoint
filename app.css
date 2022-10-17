@@ -57,7 +57,7 @@
 }
 
 .main-header .logo h1 {
-    font-size: 30px;
+    font-size: 36px;
     text-transform: uppercase;
     font-weight: 800;
     color: #fff;
@@ -70,7 +70,7 @@
 
 html,
 body {
-    height: 80vh;
+    height: 100vh;
     display: grid;
     place-items: center;
     margin-top: 50px;
