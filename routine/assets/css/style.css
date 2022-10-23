@@ -25,7 +25,10 @@ body {
   color: #4e4e4e;
 }
 
-h1,
+h1{
+  color: white;
+  font-size:31px;
+}
 h2,
 h3,
 h4,
