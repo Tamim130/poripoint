@@ -4,14 +4,13 @@
     --dark-second: #79788c;
     --dark-hover: #323048;
     --dark-text: #f8fbff;
-
     --light-body: #f3f8fe;
     --light-main: #fdfdfd;
-    --light-second: #c3c2c8;
+    --light-second: #ff0000;
     --light-hover: #edf0f5;
     --light-text: #151426;
 
-    --blue: #0000ff;
+    --blue: #f00a4f;
     --white: #fff;
 
     --shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -44,7 +43,7 @@
 
 .main-header {
     background-color: rgba(22,34,57,0.95);
-    height: 80px;
+    height: 60px;
     position:absolute;
     z-index: 12;
     width: 100%;
@@ -53,7 +52,7 @@
 
 .main-header .logo {
     float: left;
-    line-height: 80px;
+    line-height: 60px;
     padding-left: 20px;  
 }
 
@@ -74,7 +73,7 @@ body {
     height: 100vh;
     display: grid;
     place-items: center;
-    margin-top: 20px;
+    margin-top: 50px;
     font-family: var(--font-family);
     background-color: var(--bg-body);
 }
